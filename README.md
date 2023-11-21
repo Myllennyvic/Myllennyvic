@@ -2,9 +2,9 @@
 ## My name is Myllenny Victória and my nickname is "Mymy"!
 
 - 🌱 Atualmente estou aprendendo :
-<img loading="lazy" src="<i class="devicon-javascript-plain colored"></i> " width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img loading="lazy" src="<i class="devicon-html5-plain colored"></i>" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img loading="lazy" src=" <i class="devicon-css3-plain colored"></i> " width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img loading="lazy" src="<i class="devicon-javascript-plain colored"></i> " width="40" height="40"/> <img loading="lazy" src="<i class="devicon-javascript-plain colored"></i>" width="40" height="40"/>
+<img loading="lazy" src="<i class="devicon-html5-plain colored"></i>" width="40" height="40"/> <img loading="lazy" src="<i class="devicon-css3-plain colored"></i>" width="40" height="40"/>
+<img loading="lazy" src=" <i class="devicon-css3-plain colored"></i> " width="40" height="40"/> <img loading="lazy" src=" <i class="devicon-css3-plain colored"></i> " width="40" height="40"/>
 
 <div>
 <a href="https://github.com/Myllennyv">
@@ -19,4 +19,3 @@
 <a href = "mailto:myllennyv@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/Myllennyv/sMyllennyv/blob/output/github-contribution-grid-snake.svg)
