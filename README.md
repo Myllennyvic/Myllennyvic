@@ -2,9 +2,7 @@
 ## My name is Myllenny Victória and my nickname is "Mymy"!
 
 - 🌱 Atualmente estou aprendendo :
-<img loading="lazy" src="<i class="devicon-javascript-plain colored"></i> " width="40" height="40"/> <img loading="lazy" src="<i class="devicon-javascript-plain colored"></i>" width="40" height="40"/>
-<img loading="lazy" src="<i class="devicon-html5-plain colored"></i>" width="40" height="40"/> <img loading="lazy" src="<i class="devicon-css3-plain colored"></i>" width="40" height="40"/>
-<img loading="lazy" src=" <i class="devicon-css3-plain colored"></i> " width="40" height="40"/> <img loading="lazy" src=" <i class="devicon-css3-plain colored"></i> " width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
 
 <div>
 <a href="https://github.com/Myllennyv">
